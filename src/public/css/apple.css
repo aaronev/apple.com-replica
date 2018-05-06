@@ -1,5 +1,7 @@
 body {
   margin: 0;
+  position: relative;
+  text-align: center;
 }
 
 
@@ -45,4 +47,17 @@ body {
   padding: 30px;
   margin: 5px;
   color: white;
+}
+
+.iPhone {
+  width: 100%;
+  text-align: center;
+  width: 1440px;
+  height: 580px;
+}
+
+.iPhone img{
+  top: 10px;
+  width: 909px;
+  height: 194px;
 }
