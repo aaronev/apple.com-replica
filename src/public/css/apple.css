@@ -56,8 +56,26 @@ body {
   height: 580px;
 }
 
-.iPhone img{
+.iPhone img {
   top: 10px;
   width: 909px;
   height: 194px;
+}
+
+.iPhone-Red {
+  background-color: #b00e23;
+}
+
+
+.iPhone-Red img {
+  width: 334px;
+  height: 335px;
+}
+
+.iPad {
+  background-color: #f5f5f5;
+}
+.iPad img {
+  width: 1068px;
+  height: 396px;
 }
